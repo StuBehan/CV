@@ -8,7 +8,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| Not My Cat                   | A webapp to do x. | MERN Stack project with user authentication and location using google maps api |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Experience
