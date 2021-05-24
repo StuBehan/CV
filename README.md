@@ -8,7 +8,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| Not My Cat                   | A webapp to do x. | MERN Stack project with user authentication and location using google maps api |
+| Not My Cat                   | MERN Stack project with user authentication and location using google maps api. | React.js, Express.js, Node.js, MongoDB Atlas, Jest, Supertest, Axios, Google Maps API |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Experience
