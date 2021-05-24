@@ -10,8 +10,11 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | ---------------------------- | ----------------- | ----------------- |
 | [Not my cat Front-end](https://github.com/StuBehan/not_my_cat_frontend), [Not my cat Back-end](https://github.com/StuBehan/not_my_cat_backend) | MERN Stack project with user authentication and location using google maps api. | React.js, Express.js, Node.js, MongoDB Atlas, Jest, Supertest, Axios, Google Maps API, bcrypt |
 | [Procrastagram](https://github.com/StuBehan/procrastagram-rails-react) | An instagram clone project with a Ruby-on-Rails back-end, React.js front-end and PostgreSQL for databse | Ruby, Ruby-on-Rails, React-js, pg, bcrypt, rspec, rack-cors, faker, factory-b |
-| [News Summary app](https://github.com/StuBehan/news-summary) | A news summary app that uses the Guardian API to render news, written in vanila JavaScript with custom testing framework. | Vanilla JavaScript, custom testing library |
+| [News Summary app](https://github.com/StuBehan/news-summary) | A news summary app that uses the Guardian API to render news, written in JavaScript with no packages and with a custom testing framework. | Vanilla JavaScript, custom testing library |
 | [Bowling Scorecard](https://github.com/StuBehan/bowling-challenge) | A bowling scorecard that is updated as scores are entered, written in JavaScript. | JavaScript, Karma, Jasmine, eslint, istanbul, Travis-CI |
+| [Command Line Bowling Scorecard](https://github.com/StuBehan/bowling-scorecard) | A command line bowling scorecard written in ruby | Ruby, RSpec, SimpleCov, Rubocop |
+| [Chitter challenge](https://github.com/StuBehan/chitter-challenge) | A twitter clone in Ruby using sinatra as a web server and a PostgreSQL database | Ruby, Sinatra, PostgreSQL, bcrypt, pg, Capybara, SimpleCov, RSpec, Rubocop |
+| [Rock-Paper-Scissors](https://github.com/StuBehan/rps-challenge) | RPS game written in Ruby using sinatra as a web server | Ruby, Sinatra, Capybara, SimpleCov, RSpec, Rubocop |
 
 ## Experience
 
