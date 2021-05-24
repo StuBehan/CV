@@ -91,9 +91,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Modules included; testing Aircraft Assisted Escape System (AAES) components, fault diagnosis on installed and uninstalled components, modifying aircraft armament systems and many
   others.
 
-#### Any other qualifications
+<!-- #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+That in some arguable way make you a better software developer or well-rounded person -->
 
 ## Hobbies
 
