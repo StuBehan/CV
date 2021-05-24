@@ -1,6 +1,6 @@
 ## Stu Baines-Dinning
 
-An Experienced aircraft system engineer and Explosive Ordnance Disposal assistant with a demonstrated history of working in the military alongside industry and with NATO partners, however I am now aiming to pivot my career toward one in Software Development.
+A confident junior software developer looking to develop within a fullstack position, highly motivated to learn new technologies with great experience of working in large or small project teams. Pivotting careers from an aircraft systems engineer and Explosive Ordnance Disposal assistant with the Royal Air Force.
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -65,10 +65,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### MAKERS ACADEMY BOOTCAMP | FEB 21 - MAY 21 | MAKERS ACADEMY
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Agile, TDD, BDD
+- Version control with Git and Github
+- Pair programming
+- Object oriented programming
+- Languages: Ruby, JavaScript
+- Testing with Rspec, Capybara, Jasmine, Jest, Enzyme, Supertest
+- Web serving with: Sinatra, Ruby on Rails, Node.js, and Express.js
+- Deployment using Heroku
+- Continuous integration with Travis-ci
+- Databases with: PostgreSQL and ActiveRecord also MongoDB using MongoDB Atlas
+- Front-end development with React.js
+- HTML5, CSS3, SCSS
 
 #### COMPUTING & IT | 2014 - PRESENT | OPEN UNIVERSITY
 
@@ -89,4 +97,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Computer hardware, wood-working, computer gaming, networking/homelabbing, electronics DIY, mountain biking, running and weightlifting.
+Computer hardware, computer gaming, wood-working, networking/homelabbing, electronics, DIY, mountain biking, running and weightlifting.
