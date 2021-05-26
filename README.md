@@ -1,6 +1,6 @@
 ## Stu Baines-Dinning
 
-A confident junior software developer looking to develop within a fullstack position, highly motivated to learn new technologies with great experience of working in large or small project teams. Pivotting careers from an aircraft systems engineer and Explosive Ordnance Disposal assistant with the Royal Air Force.
+A confident junior software developer looking to develop within a full stack position, highly motivated to learn new technologies with great experience of working in large or small project teams. Pivoting careers from an aircraft systems engineer and Explosive Ordnance Disposal assistant with the Royal Air Force.
 
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech. -->
 
