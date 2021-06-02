@@ -97,4 +97,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Computer hardware, computer gaming, wood-working, networking/homelabbing, electronics, DIY, mountain biking, running and weightlifting.
+Computer hardware, computer gaming, woodworking, networking/homelabbing, electronics, DIY, mountain biking, running and weightlifting.
