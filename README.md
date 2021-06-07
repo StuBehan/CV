@@ -1,10 +1,20 @@
 <h1 align="center">Stu Baines-Dinning</h1>
+---
+<div align="center">
+  [Profile](#profile) |
+  [Projects](#projects) |
+  [Skills](#skills) |
+  [Experience](#experience) |
+  [Education](#education) |
+  [Interests](#interests)
+</div>
 
-A confident junior software developer looking to develop within a full-stack position, highly motivated to learn new technologies with demonstrable experience working in large or small project teams. Pivoting careers from an aircraft systems engineer and Explosive Ordnance Disposal assistant with the Royal Air Force.
+# Profile
 
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech. -->
+A confident junior software developer looking to develop within a full-stack position, highly motivated to learn new technologies with demonstrable experience working in large or small project teams. Pivoting careers from an aircraft systems engineer and Explosive Ordnance Disposal assistant with the Royal Air Force.
 
-## Projects
+# Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -16,7 +26,11 @@ A confident junior software developer looking to develop within a full-stack pos
 | [Chitter challenge](https://github.com/StuBehan/chitter-challenge) | A twitter clone in Ruby using sinatra as a web server and a PostgreSQL database | Ruby, Sinatra, PostgreSQL, bcrypt, pg, Capybara, SimpleCov, RSpec, Rubocop |
 | [Rock-Paper-Scissors](https://github.com/StuBehan/rps-challenge) | RPS game written in Ruby using sinatra as a web server | Ruby, Sinatra, Capybara, SimpleCov, RSpec, Rubocop |
 
-## Experience
+# Skills
+
+Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+
+# Experience
 
 ### Royal Air Force - 13 Years
 
@@ -42,9 +56,7 @@ A confident junior software developer looking to develop within a full-stack pos
 - Maintenance of Eurofighter Typhoon Role Equipment at RAF Coningsby's Aircraft Weapons Engineering Section, this involved time-based maintenance (flying hours and calendar) of Typhoon wing and fuselage pylons and their respective Ejection Release Units and also fault rectification, modification, and overhaul.
 
 
-## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### This Skill
 
@@ -61,7 +73,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+# Education
 
 #### MAKERS ACADEMY BOOTCAMP | FEB 21 - MAY 21 | MAKERS ACADEMY
 
@@ -95,6 +107,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 That in some arguable way make you a better software developer or well-rounded person -->
 
-## Hobbies
+# Interests
 
 Computer hardware, computer gaming, woodworking, networking/homelabbing, electronics, DIY, mountain biking, running and weightlifting.
