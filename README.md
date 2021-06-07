@@ -12,7 +12,6 @@
 
 # Profile
 
-<!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech. -->
 A confident junior software developer looking to develop within a full-stack position, highly motivated to learn new technologies with demonstrable experience working in large or small project teams. Pivoting careers from an aircraft systems engineer and Explosive Ordnance Disposal assistant with the Royal Air Force.
 
 # Projects
@@ -56,22 +55,25 @@ As a Junior Non-Commissioned Officer, I had the pleasure of managing teams carry
 
 **JUNIOR NON COMMISIONED OFFICER SQUADRON CONTROL | RAF WITTERING | JUL 19 – JUN 20** 
 
-- In addition to the duties of a Number 2 Operator, I managed a fleet of 30+ vehicles of various natures to ensure the squadron was ready for its wide range of duties, including the Improvised Explosive Device Disposal (IEDD) and Conventional Munitions Disposal (CMD) response vehicles. Further responsibilities included management of squadron personnel’s driving qualifications and courses. I volunteered to become the squadrons Information Manager and restructured and developed the squadron’s SharePoint site to ensure that it met Ministry of Defense Information Management policy.
-
-<!-- - Any experience relevent to software development -->
+In addition to the duties of a Number 2 Operator:
+- Coordinated a fleet of 30+ vehicles of various natures to ensure the squadron was ready for its wide range of duties, including response vehicles kept at high alert year-round.
+- Organised the squadron personnel’s driving qualifications and courses, maintaining high levels of operational manpower.
+- Volunteered to become the squadron's Information Manager and restructured and developed the squadron’s SharePoint site to ensure that it met Ministry of Defense Information Management policy.
 
 **IEDD NUMBER 2 OPERATOR | RAF WITTERING | JAN 15 – JUL 19**
 
-- Working as a Number 2 operator for 5131(Bomb Disposal) Squadron at RAF Wittering where the duties involve preparing explosives to carry out controlled demolitions for weapons trials, life expired munitions, legacy munitions and in support of the Police during duties considered Military Assistance to Civil Authorities (MACA). MACA duties involve Conventional Munitions Disposal (CMD) and Improvised Explosive Device Disposal (IEDD). IEDD duties involve maintenance and control of the current in-service Remotely Operated Vehicle (ROV) and the preparing of Explosive Ordnance Disposal (EOD) Weapons for a manual approach.
-
-<!-- - Any experience relevent to software development -->
+- Coordinated preparing explosives to carry out controlled demolitions for weapons trials, life- expired munitions, legacy munitions, and support of Military Assistance to Civil Authorities (MACA) operations.
+- Operated the then in-service Remotely Operated Vehicle (ROV), Cutlass, and carried out preparation of Explosive Ordnance Disposal (EOD) Weapons for a manual approach ensuring the squadron met its commitment to serve MACA operations.
 
 **EJECTION SEAT MAINTAINER | RAF CONINGSBY | SEP 12 – JAN 15**
-- Maintenance of Eurofighter Typhoon Aircraft Assisted Escape Systems (AAES) at RAF Coningsby's Typhoon AAES Bay, where the duties were time-based maintenance of the Martin-Baker MK16A Ejection Seats and the associated canopy release system for the Eurofighter Typhoon canopy, and modification, damage rectification and overhaul of components for the seat and canopy.
+
+- Delivered maintenance, fault rectification, modification, and overhaul of Typhoon ejection seats and the canopy release system, to allow squadrons to meet the flying program.
+- Integrated training and implementation of the first 10-year maintenance procedures for the ejection seat and canopy systems, maintaining the maturing fleet's uptime.
 
 **TYPHOON ROLE EQUIPMENT MAINTAINER | RAF CONINGSBY | JUN 08 – SEP 12**
 
-- Maintenance of Eurofighter Typhoon Role Equipment at RAF Coningsby's Aircraft Weapons Engineering Section, this involved time-based maintenance (flying hours and calendar) of Typhoon wing and fuselage pylons and their respective Ejection Release Units and also fault rectification, modification, and overhaul.
+- Carried out maintenance, fault rectification, modification, and overhaul of Typhoon Role Equipment to enable Operations at home and abroad.
+- Created documentation and procedures for maintenance to increase the availability of assets within the fleet.
 
 # Education
 
