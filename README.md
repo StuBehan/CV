@@ -77,7 +77,7 @@ In addition to the duties of a Number 2 Operator:
 #### MAKERS ACADEMY BOOTCAMP | FEB 21 - MAY 21 | MAKERS ACADEMY
 
 - Created and hosted web apps in Ruby, Ruby-on-rails and Javascript, using React, Express, and Node.js. Working in Agile teams using pair programming and version control with Git and GitHub. 
-- Learned and applied software design principles such as Object Oriented Programming, Test and Behaviour Driven Development, Domain Driven Design and  Model View Controller design pattern.
+- Learned and applied software design principles such as Object-Oriented Programming, Test and Behaviour Driven Development, Domain-Driven Design and  Model View Controller design pattern.
 - Demonstrated understanding of testing in Ruby with RSpec, Capybara, Jasmine, and Javascript using Jest, Enzyme, and Supertest.
 - RESTful Api integration using ActiveRecord with Ruby for PostgreSQL and Node, Express.js with MongoDB Atlas for experience using NoSQL databases.
 - Explored web hosting with Heroku and continuous integration with Travis-CI.
