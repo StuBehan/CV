@@ -38,14 +38,11 @@ Throughout my career I have had to brief audiences large and small regarding hig
 
 ## Leadership
 
-As a Junior Non-Commissioned Officer, I had the pleasure of managing teams carrying out a diverse array of tasks, from dangerous goods movements to leading a section of 8 persons on a dynamic high pressure Explosive Ordnance Disposal exercise . The challenge of leadership is its greatest reward, and has pushed me to develop my emotional intelligence, as maintaining a high level of performance requires a leader to understand the individual needs of their team. Whilst studying at Makers Academy it was apparent that across disciplines, effective leadership requires similar skills.
+As a Junior Non-Commissioned Officer, I had the pleasure of leading teams carrying out a diverse array of tasks, from dangerous goods movements to leading a section of 8 persons on a dynamic high pressure Explosive Ordnance Disposal exercise . The challenge of leadership is its greatest reward, and has pushed me to develop my emotional intelligence, as maintaining a high level of performance requires a leader to understand the individual needs of their team. Whilst studying at Makers Academy it was apparent that across disciplines, effective leadership requires similar skills.
 
 ## Management
 
-- Organised movement of thousands of life-expired and damaged flares from RAF Wittering to MOD Shoeburyness for disposal. 
-- Formalised contact with the depot at shoeburyness to arrange the disposal, ensuring suitable, experienced personnel were available for the movement at both ends. 
-- Arranged suitably inspected, licensed vehicles and notified the police of the intention to move large amounts of attractive cargo, providing information regarding the route.
-- Resulting in the successful delivery and disposal of the flares, saving the MOD money compared to outsourcing the movement to a private contractor. 
+Experience managing assets in the millions of GBP including aircraft components, weapons, and explosive natures. I spent a great deal of my time effectively contacting external agencies, including project teams, to develop modifications and repairs for aircraft components that would allow the recovery of assets and saving millions in taxpayer funds. I conducted daily stand up meetings for the aircraft launcher workshop and managed shift rotas.
 
 # Experience
 
