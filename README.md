@@ -76,18 +76,11 @@ In addition to the duties of a Number 2 Operator:
 
 #### MAKERS ACADEMY BOOTCAMP | FEB 21 - MAY 21 | MAKERS ACADEMY
 
-- Agile, TDD, BDD
-- Version control with Git and Github
-- Pair programming
-- Object oriented programming
-- Languages: Ruby, JavaScript
-- Testing with Rspec, Capybara, Jasmine, Jest, Enzyme, Supertest
-- Web serving with: Sinatra, Ruby on Rails, Node.js, and Express.js
-- Deployment using Heroku
-- Continuous integration with Travis-ci
-- Databases with: PostgreSQL and ActiveRecord also MongoDB using MongoDB Atlas
-- Front-end development with React.js
-- HTML5, CSS3, SCSS
+- Created and hosted web apps in Ruby, Ruby-on-rails and Javascript, using React, Express, and Node.js. Working in Agile teams using pair programming and version control with Git and GitHub. 
+- Learned and applied software design principles such as Object Oriented Programming, Test and Behaviour Driven Development, Domain Driven Design and  Model View Controller design pattern.
+- Demonstrated understanding of testing in Ruby with RSpec, Capybara, Jasmine, and Javascript using Jest, Enzyme, and Supertest.
+- RESTful Api integration using ActiveRecord with Ruby for PostgreSQL and Node, Express.js with MongoDB Atlas for experience using NoSQL databases.
+- Explored web hosting with Heroku and continuous integration with Travis-CI.
 
 #### COMPUTING & IT | 2014 - PRESENT | OPEN UNIVERSITY
 
