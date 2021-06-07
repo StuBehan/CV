@@ -29,7 +29,24 @@ A confident junior software developer looking to develop within a full-stack pos
 
 # Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+## Teamwork
+
+In the Royal Air Force, I have worked in large and small teams at home and abroad, I have deployed as an individual augmentee, demonstrating my ability to fit into an established team. I have developed a sound understanding of the dynamism between followership and leadership and can move fluidly between the two as the situation dictates. Most recently, working on group projects with other Makers Academy students I have used these skills to great effect, our teams going on to produce quality results.
+
+## Communication
+
+Throughout my career I have had to brief audiences large and small regarding highly technical aspects of aircraft components, sometimes to audiences who weren’t engineers themselves. 
+
+## Leadership
+
+As a Junior Non-Commissioned Officer, I had the pleasure of managing teams carrying out a diverse array of tasks, from dangerous goods movements to leading a section of 8 persons on a dynamic high pressure Explosive Ordnance Disposal exercise . The challenge of leadership is its greatest reward, and has pushed me to develop my emotional intelligence, as maintaining a high level of performance requires a leader to understand the individual needs of their team. Whilst studying at Makers Academy it was apparent that across disciplines, effective leadership requires similar skills.
+
+## Management
+
+- Organised movement of thousands of life-expired and damaged flares from RAF Wittering to MOD Shoeburyness for disposal. 
+- Formalised contact with the depot at shoeburyness to arrange the disposal, ensuring suitable, experienced personnel were available for the movement at both ends. 
+- Arranged suitably inspected, licensed vehicles and notified the police of the intention to move large amounts of attractive cargo, providing information regarding the route.
+- Resulting in the successful delivery and disposal of the flares, saving the MOD money compared to outsourcing the movement to a private contractor. 
 
 # Experience
 
@@ -55,24 +72,6 @@ Consider skills relevent to software development. Then consider your best skills
 **TYPHOON ROLE EQUIPMENT MAINTAINER | RAF CONINGSBY | JUN 08 – SEP 12**
 
 - Maintenance of Eurofighter Typhoon Role Equipment at RAF Coningsby's Aircraft Weapons Engineering Section, this involved time-based maintenance (flying hours and calendar) of Typhoon wing and fuselage pylons and their respective Ejection Release Units and also fault rectification, modification, and overhaul.
-
-
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 # Education
 
@@ -101,12 +100,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### NVQ LEVEL 3, AERONAUTICAL ENGINEERING | 2008-2009 | DEFENCE COLLEGE OF AERONAUTICAL ENGINEERING
   
-- Modules included; testing Aircraft Assisted Escape System (AAES) components, fault diagnosis on installed and uninstalled components, modifying aircraft armament systems and many
-  others.
-
-<!-- #### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person -->
+- Modules included; testing Aircraft Assisted Escape System (AAES) components, fault diagnosis on installed and uninstalled components, modifying aircraft armament systems and many others.
 
 # Interests
 
