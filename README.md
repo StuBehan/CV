@@ -1,11 +1,11 @@
 <h1 align="center">Stu Baines-Dinning - Software Developer</h1>
 <div align="center">
-  [Profile ](#profile) |
-  [Projects ](#projects) |
-  [Skills ](#skills) |
-  [Experience ](#experience) |
-  [Education ](#education) |
-  [Interests ](#interests)
+[Profile](#profile) |
+[Projects](#projects) |
+[Skills](#skills) |
+[Experience](#experience) |
+[Education](#education) |
+[Interests](#interests)
 </div>
 
 # Profile
