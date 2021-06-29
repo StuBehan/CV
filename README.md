@@ -74,15 +74,15 @@ In addition to the duties of a Number 2 Operator:
 
 **Problem-solving, Effective Under Pressure** - Operated the then in-service Remotely Operated Vehicle (ROV), Cutlass, and carried out the preparation of Explosive Ordnance Disposal (EOD) Weapons for manual approach ensuring the squadron met its commitment to serve MACA operations.
 
-**EJECTION SEAT MAINTAINER | RAF CONINGSBY | SEP 12 – JAN 15**
+**AIRCRAFT SYSTEMS ENGINEER | RAF CONINGSBY | SEP 12 – JAN 15**
 
-- Delivered maintenance, fault rectification, modification, and overhaul of Typhoon ejection seats and the canopy release system, to allow squadrons to meet the flying program.
-- Integrated training and implementation of the first 10-year maintenance procedures for the ejection seat and canopy systems, maintaining the maturing fleet's uptime.
+**Reliability, Teamwork** - Delivered maintenance, fault rectification, modification, and overhaul of Typhoon ejection seats and the canopy release system, to allow squadrons to meet the flying program.
 
-**TYPHOON ROLE EQUIPMENT MAINTAINER | RAF CONINGSBY | JUN 08 – SEP 12**
+**Team Building, Training Others** - Integrated training and implementation of the first 10-year maintenance procedures for the ejection seat and canopy systems, maintaining the maturing fleet's uptime.
 
-- Carried out maintenance, fault rectification, modification, and overhaul of Typhoon Role Equipment to enable Operations at home and abroad.
-- Created documentation and procedures for maintenance to increase the availability of assets within the fleet.
+**Problem-solving** - Carried out maintenance, fault rectification, modification, and overhaul of Typhoon Role Equipment to enable Operations at home and abroad.
+
+**Attention to Detail, Communication** - Created documentation and procedures for maintenance to increase the availability of assets within the fleet.
 
 # Education
 
