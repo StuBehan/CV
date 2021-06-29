@@ -53,20 +53,26 @@ Experience managing assets in the millions of GBP including aircraft components,
 **JUNIOR NON COMMISIONED OFFICER LAUNCHER WORKSHOP | RAF CONINGSBY | JUN 20 – FEB 21**
 
 **Personnel Management, Strategic Planning** - Shift planning and sanitation solutions to enable a safe and effective work environment during the pandemic to ensure the workshop could achieve the output required to meet operational requirements.
-Asset Management, Responsibility - Managed launcher assets for the fleet during a spares shortage, proposing cannibalization of unserviceable assets to bridge the gap, writing technical documentation so that the work could be carried out following engineering and airworthiness policy.
-Interpersonal Communication, Emotional Intelligence - Developed subordinates by mentoring them through their Acting Higher Rank applications which resulted in high praise for them following boarding interviews with senior engineers.
+
+**Asset Management, Responsibility** - Managed launcher assets for the fleet during a spares shortage, proposing cannibalization of unserviceable assets to bridge the gap, writing technical documentation so that the work could be carried out following engineering and airworthiness policy.
+
+**Interpersonal Communication, Emotional Intelligence** - Developed subordinates by mentoring them through their Acting Higher Rank applications which resulted in high praise for them following boarding interviews with senior engineers.
 
 **JUNIOR NON COMMISIONED OFFICER SQUADRON CONTROL | RAF WITTERING | JUL 19 – JUN 20** 
 
-In addition to the duties of a Number 2 Operator:
+In addition to the duties of a Number 2 Operator: 
+
 **Effective Project Management** - Coordinated a fleet of 30+ vehicles of various natures to ensure the squadron was ready for its wide range of duties, including response vehicles kept at high alert year-round.
+
 **Leadership, Communication** - Organised the squadron personnel’s driving qualifications and courses, maintaining high levels of operational manpower.
+
 **Extra Capacity, Flexibility** - Volunteered to become the squadron's Information Manager and restructured and developed the squadron’s SharePoint site to ensure that it met the Ministry of Defence Information Management policy.
 
 **IEDD NUMBER 2 OPERATOR | RAF WITTERING | JAN 15 – JUL 19**
 
-- Coordinated preparing explosives to carry out controlled demolitions for weapons trials, life- expired munitions, legacy munitions, and support of Military Assistance to Civil Authorities (MACA) operations.
-- Operated the then in-service Remotely Operated Vehicle (ROV), Cutlass, and carried out preparation of Explosive Ordnance Disposal (EOD) Weapons for a manual approach ensuring the squadron met its commitment to serve MACA operations.
+**Attention to Detail, Project Management** - Coordinated preparing explosives to carry out controlled demolitions for weapons trials, life-expired munitions, legacy munitions, and support of Military Assistance to Civil Authorities (MACA) operations.
+
+**Problem-solving, Effective Under Pressure** - Operated the then in-service Remotely Operated Vehicle (ROV), Cutlass, and carried out the preparation of Explosive Ordnance Disposal (EOD) Weapons for manual approach ensuring the squadron met its commitment to serve MACA operations.
 
 **EJECTION SEAT MAINTAINER | RAF CONINGSBY | SEP 12 – JAN 15**
 
