@@ -109,4 +109,4 @@ In addition to the duties of a Number 2 Operator:
 
 # Interests
 
-Computer hardware, computer gaming, woodworking, networking/homelabbing, electronics, DIY, mountain biking, running and weightlifting.
+I like to try things myself, and with an engineering background, tinkering with computer hardware, networking, home-labs and electronics comes quite naturally and fits well with my hobby of computer gaming. I also enjoy woodworking and home  DIY. Whilst my main fitness pursuits are mountain biking, running and weightlifting.
