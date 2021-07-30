@@ -12,7 +12,7 @@
 
 # Profile
 
-A confident junior software developer looking to develop within a full-stack position, highly motivated to learn new technologies with demonstrable experience working in large or small project teams. Pivoting careers from an aircraft systems engineer and Explosive Ordnance Disposal assistant with the Royal Air Force.
+A junior software developer looking to progress within a full-stack position, highly motivated to learn new technologies with demonstrable experience working in large or small project teams. Pivoting careers from an aircraft systems engineer and Explosive Ordnance Disposal assistant with the Royal Air Force.
 
 # Projects
 
